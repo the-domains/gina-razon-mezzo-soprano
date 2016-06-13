@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Gina Razon Mezzo Soprano]]></title>
         <description><![CDATA[Gina Razon Mezzo Soprano]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/gina-razon-mezzo-soprano/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 13 Jun 2016 12:52:41 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 13 Jun 2016 13:11:04 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/gina-razon-mezzo-soprano/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Who is Gina Razon?</p>]]></description>
-            <link>undefinedwho-is-gina-razon/index.html</link>
+            <link>https://thegrid.ai/gina-razon-mezzo-soprano/who-is-gina-razon/index.html</link>
             <guid isPermaLink="false">7bd04bfd-ba10-4368-b2a5-d4ce1accdccd</guid>
-            <pubDate>Mon, 13 Jun 2016 12:52:40 GMT</pubDate>
+            <pubDate>Mon, 13 Jun 2016 13:11:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
